@@ -1,0 +1,111 @@
+.jumbotron{
+
+  background-image: url('./images/Vancouver.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: calc(100vh - 25px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #eff6ff;
+  background-blend-mode: multiply;
+
+}
+
+h1 {
+	font-family: 'Poppins', sans-serif;
+	font-weight: 700px;
+	color: #000;
+
+}
+
+h2 {
+	font-family: 'Poppins', sans-serif;
+	font-weight: 600px;
+}
+
+
+.lead { 
+	font-family: 'Poppins', sans-serif;
+	font-weight: 500px;
+	color: #000;
+ }
+ .jumboCopy {
+ 	margin-top: -200px;
+ }
+ .card{
+ 	margin-top: 50px;
+ }
+.objective-card {
+	background-color: #ededed;
+}
+.container-fluid-research{
+
+	background-color: #BCD9E6;
+	padding: 100px;
+
+}
+.container-fluid-content {
+	padding: 100px;
+}
+.dd{
+	width: 100%;
+}
+.placeholder{
+	display: inline;
+	max-width: 100%;
+	border-radius: 5px;
+}
+#researchpara{
+	text-align: center;
+}
+.text{
+	padding-bottom: 30px;
+}
+.container-fluid-define{
+
+	background-color: #fffff;
+	padding: 100px;
+
+}
+.persona{
+	width:100%;
+}
+.wireframes{
+	align-items: center;
+}
+.page-footer{
+	padding-top:50px;
+	background-color: #FCEFC7;
+}
+
+.icons {
+	display: flex;
+	flex-direction: column;
+}
+
+.icons1 {
+	width: 61px;
+}
+
+.jiggy {
+	position: relative;
+    left: -7px;
+    bottom: -8px;
+    width: 76px;
+}
+.footertext{
+	font-size: 20px;
+	padding-top:60px;
+}
+.nativoprototype{
+	height:700px;
+
+}
+.learnt{
+	padding-top:50px;
+	padding-bottom:50px;
+}
+.container-fluid{
+	padding-top: 50px;
+}
